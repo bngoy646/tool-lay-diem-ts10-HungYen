@@ -7,3 +7,5 @@ Tool lấy điểm thi tuyển sinh vào 10 toàn tỉnh Hưng Yên
 ### Đối với Python:
    1. Install dependencies: `pip install -r requirements.txt`
    2. Run tool: `python run.py`
+
+Ae có tool nào xịn hơn tôi xin với chứ tôi hết cách r😔
